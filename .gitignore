@@ -1,0 +1,16 @@
+# 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 密钥：绝对不能提交
+key.txt
+.env
+
+# 编辑器
+.idea/
+.vscode/
